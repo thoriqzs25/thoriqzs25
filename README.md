@@ -2,6 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thariqzs"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.instagram.com/thoriqzs/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 </p>
@@ -17,7 +18,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building mobile applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on LeetCode, read tech articles, and watch The Simpsons <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsimpson&psig=AOvVaw0AIBFhCBCjExXyHsI66cfo&ust=1672209706626000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODXsd6YmfwCFQAAAAAdAAAAABAE" width="30">.
+- ⚡ In my free time I solve problems on LeetCode, read tech articles, and watch The Simpsons <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="30">.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-thariqzs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thariqzs)
 
 ---
