@@ -29,7 +29,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,electron,jquery,tailwind,materialui,html,css,bootstrap,wordpress)](https://skillicons.dev)
 
 ### 👦🏻 &nbsp;Backend :     
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,angular,fastapi,mysql,postgres,firebase,flask,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,firebase,flask,sqlite)](https://skillicons.dev)
 
 ### 🛠 &nbsp;Tools : 
 [![My Skills](https://skillicons.dev/icons?i=figma,aws,azure,gcp,heroku,jest,netlify,git,github,androidstudio,docker,gradle,vercel,vim,vscode)](https://skillicons.dev)
